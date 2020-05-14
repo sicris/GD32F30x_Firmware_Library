@@ -1,0 +1,11 @@
+#
+# (C) Copyright 2020
+# Zimplistic Private Limited
+# Sicris Rey Embay, sicris@zimplistic.com
+#
+# For a description of syntax, see
+# https://www.kernel.org/doc/Documentation/kbuild/kconfig-language.txt
+#
+menu "GD32F30x Library Configuration"
+
+endmenu #"FreeRTOS Configuration"
